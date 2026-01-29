@@ -1,2 +1,0 @@
-# .github
-Aiame Public Readme
